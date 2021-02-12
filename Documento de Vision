@@ -29,3 +29,28 @@ fidelidad y proximidad de sus usuarios a quienes se les ofrece experiencias onli
 2.2. Enunciado del problema.
 Crear una red social con tematica Gamer, donde los usuarios puedan comunicarse y puedan tener un tiempo 
 de ocio y la diversion.
+
+Requisitos Funcionales.
+ .Requerimiento funcional Realizar publicaciones en el grupo
+de interés.
+.Requerimiento funcional Eliminar Publicaciones.
+.Requerimiento funcional Crear Publicaciones.
+.Requerimiento funcional Comentar Publicaciones.
+.Requerimiento funcional Crear un mensaje.
+.Requerimiento funcional Guardar un mensaje.
+.Requerimiento funcional Eliminar un mensaje.
+
+Requisitos No Funcionales.
+
+.Requerimiento no funcional Crear grupos sociales.
+.Requerimiento no funcional Crear Eventos.
+.Requerimiento no funcional Eliminar Eventos.
+.Requerimiento no funcional Mostrar Invitaciones del Evento.
+
+Requrimiento de Dominio.
+
+Entorno de desarrollo: Javascrip, Css3, Html5.
+• Herramienta de gestión del proyecto: NodeJs
+• Herramienta de elaboración de diagramas UML: MS Visio, ArgoUML.
+• SGBD: MySQL 5.5.
+• Elaboración de documentos entregables y de la presentación: Microsoft Office.
